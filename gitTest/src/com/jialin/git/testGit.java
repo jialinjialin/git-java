@@ -13,6 +13,7 @@ public class testGit {
         System.out.println("hello Git");
         System.out.println("hello Git");
         System.out.println("hello Git");
+        test();
     }
 
     public void  test(){
