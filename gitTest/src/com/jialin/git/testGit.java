@@ -14,4 +14,11 @@ public class testGit {
         System.out.println("hello Git");
         System.out.println("hello Git");
     }
+
+    public void  test(){
+        int i=1;
+        int sum=0;
+        sum+=i;
+        System.out.println(sum);
+    }
 }
