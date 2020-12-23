@@ -15,6 +15,7 @@ public class testGit {
         System.out.println("hello Git");
         test();
         System.out.println("asjdasd");
+        System.out.println("添加main方法");
     }
 
     static void  test(){
