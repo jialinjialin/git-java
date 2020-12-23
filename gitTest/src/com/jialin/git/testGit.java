@@ -16,7 +16,7 @@ public class testGit {
         test();
     }
 
-    public void  test(){
+    static void  test(){
         int i=1;
         int sum=0;
         sum+=i;
